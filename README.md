@@ -83,4 +83,4 @@ Nikola Jovanović – first GitHub project documenting cross-platform database c
 
 ## 📝 License
 
-MIT License (or leave blank if not applying one)
+MIT License
