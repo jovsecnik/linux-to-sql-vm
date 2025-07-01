@@ -71,13 +71,13 @@ pip install pyodbc
 
 ## 🖼️ Screenshots
 
-Place all screenshots in the `screenshots/` folder.
+All screenshots are in the `screenshots/` folder.
 
 ---
 
 ## 👤 Author
 
-Nikola Jovanović – first GitHub project documenting cross-platform database communication.
+Nikola Jovanović
 
 ---
 
