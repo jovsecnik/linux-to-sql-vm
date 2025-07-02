@@ -79,8 +79,3 @@ All screenshots are in the `screenshots/` folder.
 
 Nikola Jovanović
 
----
-
-## 📝 License
-
-MIT License
