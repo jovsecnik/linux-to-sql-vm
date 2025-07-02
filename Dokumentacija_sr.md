@@ -26,7 +26,7 @@ U bazi je trenutno postavljen Windows Authentication kako bi moglo da se uđe u 
 
 ## 2. Mrežna konfiguracija VM-a
 
-Prvobitno je VirtualBox mreža bila podešena kao **Bridged Adapter**. Bridged adapter pokušava da poveže VM direktno na istu mrežu kao i host — kao da je fizički uređaj priključen na tvoj ruter.
+Prvobitno je VirtualBox mreža bila podešena kao **Bridged Adapter**. Bridged adapter pokušava da poveže VM direktno na istu mrežu kao i host — kao da je fizički uređaj priključen na ruter.
 
 Međutim, VM je dobijala IP adresu `169.254.X.X`, što znači da nije uspela da dobije adresu preko DHCP-a. To se često dešava kada je host povezan putem Wi-Fi i ruter ne prosleđuje DHCP za bridged adaptere.
 
